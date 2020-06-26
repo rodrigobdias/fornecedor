@@ -4,11 +4,6 @@ server:
   
 # data source
 spring:
-  datasource:
-    driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost/fornecedor?createDatabaseIfNotExist=true&useSSL=false
-    username: root
-    password: 123
   application:
     name: 'fornecedor'
     
