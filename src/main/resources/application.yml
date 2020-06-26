@@ -1,12 +1,7 @@
 
 server:
   port: 8088
-  
-# data source
-spring:
-  application:
-    name: 'fornecedor'
-    
+      
 # jpa properties
   jpa:
     hibernate:
