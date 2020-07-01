@@ -1,4 +1,4 @@
-package br.com.alura.microservice.fornecedor.service;
+package br.com.alura.microservice.fornecedor.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
